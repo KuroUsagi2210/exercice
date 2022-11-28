@@ -1,0 +1,15 @@
+{
+  "name": "functions-and-arrays-application",
+  "version": "1.0.0",
+  "description": "Exercice d'application JavaScript sur les fonctions et les tableaux.",
+  "scripts": {
+    "start": "http-server",
+    "test": "jest"
+  },
+  "author": "François ROLAND <francois.roland@eafc-uccle.be>",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "jest": "^29.2.0",
+    "prettier": "^2.7.1"
+  }
+}
